@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 10px;
+  height: 100vh;
+}
+.btn {
+  height: 20px;
+  width: auto;
+  cursor: pointer;
+  color: black;
+  border: none;
+  border-radius: 20px;
+  margin: 20px;
+  padding: auto;
+}
+.btn:hover {
+  height: 50px;
+  width: auto;
+  color: pink;
+}
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
